@@ -1,16 +1,15 @@
-## Hi there 👋
+# Kontraq.io
 
-<!--
-**Kontraq/Kontraq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**A streamlined platform for contractors to find and manage subcontractors in real time.**
 
-Here are some ideas to get you started:
+Kontraq.io simplifies subcontracting by connecting construction companies with vetted local labor crews. Designed for speed, transparency, and accountability, it helps reduce downtime and manage jobs efficiently.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Features
+
+- Real-time job posting and crew matching  
+- Location-based filtering for local work opportunities  
+- Contractor and subcontractor dashboards  
+- Business promotions tied to job locations  
+- Metrics and basic reporting for partnerships  
