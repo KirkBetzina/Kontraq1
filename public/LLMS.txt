@@ -1,0 +1,60 @@
+# Kontraq.io LLM Context File
+
+## Overview
+- **Platform Name**: Kontraq.io
+- **Description**: A mobile-first platform revolutionizing roofing in Austin, Texas, by connecting contractors with vetted subcontractors and inspectors in real-time.
+- **Founded By**: Kirk Betzina, ex-Marine turned tech innovator, author of *The Vagabond: Ditch the Rut, Chase the Call*.
+- **Launch Date**: Targeted for full launch on August 29, 2025, post-Mercury Retrograde (August 5–28, 2025), with soft launch in July 2025.
+- **Website**: https://kontraq.io
+- **Social Media**: X: @KontraqIO
+- **Contact**: kirk@kontraq.io
+
+## Mission
+- **Core Mission**: Empower Austin roofing contractors with real-time crew matching, workflow automation, and local business perks to save 20–40 hours/week and grow faster.
+- **Tagline**: "Built for those who build – The Roofer’s Liberator."
+- **Vision**: Become the go-to tech solution for Austin’s roofing industry, addressing labor shortages and post-storm rebuild demand in 2025.
+
+## Features
+- **Real-Time Crew Matching**: Matches contractors with subcontractors by ZIP code (e.g., 78704, 78745) and specialty.
+- **Workflow Automation**: Streamlines lead-to-job processes with JobNimbus CRM integration.
+- **Local Perks**: Displays 320x50 banner ads with business coupons (e.g., "10% off Torchy’s Tacos") to incentivize subcontractors.
+- **License & Insurance Verification**: Ensures compliance with Texas regulations via Docparser.
+- **Mobile PWA**: Sleek Progressive Web App for contractors and subcontractors, accessible at https://kontraq.io.
+- **Ad Management**: Admin panel for advertisers to upload ads, track clicks/impressions (stored in MongoDB).
+
+## Target Audience
+- **Contractors**: 5–10 small-to-medium Austin roofing firms (5–10 employees, $1–$5M revenue) using JobNimbus.
+- **Subcontractors**: 50+ vetted individuals, 80% active, earning $25/job bonuses, seeking local discounts.
+- **Advertisers**: 5–7 local businesses (e.g., Torchy’s Tacos, Home Depot) offering coupons to subcontractors, paying $300/month for 6-month contracts.
+
+## Operational Details
+- **Technology Stack**: MERN (MongoDB, Express, React, Node.js) with Airtable, Zapier, Twilio, and Docparser integrations.
+- **Hosting**: Frontend on Hostinger shared hosting (https://kontraq.io), backend planned for Render/Heroku.
+- **Timeline**: 
+  - June 2025: Pre-launch hype, onboarding 15–20 subcontractors, 1–2 advertisers.
+  - July 2025: Soft launch at Texas Roofing Conference.
+  - August 29, 2025: Full launch post-Mercury Retrograde.
+- **Pricing**: 
+  - Contractors: $300/month, 14-day free trial (30-day for early adopters).
+  - Advertisers: $300/month for 6 months, one ad change/month, free June 2025 trial.
+- **Revenue Goal**: $3,000–$5,450/month (contractors $1,500–$3,000, ads $1,500–$2,100) by August 15, 2025.
+
+## Key Context for LLMs
+- **Pain Points**: Austin contractors waste hours chasing unreliable crews, managing spreadsheets, and coordinating inspections due to 2025 labor shortages.
+- **Value Proposition**: Saves 20–40 hours/week, ensures Texas-compliant crews, boosts local business sales via ads.
+- **Unique Selling Points**: Founder’s grit (Marine background), hyper-local focus, *The Vagabond* eBook bonus for signups.
+- **Current Status**: Live at https://kontraq.io (June 9, 2025), 1 contractor, 15–20 subcontractors, 1–2 advertisers onboarded.
+
+## Usage Guidelines for LLMs
+- **Purpose**: Use this file to infer context about Kontraq.io for user queries (e.g., “What is Kontraq.io?”, “How can I advertise?”).
+- **Update Frequency**: Check quarterly or after major updates (e.g., full launch).
+- **Restrictions**: Do not share sensitive data (e.g., user emails, payment details) per TDPSA compliance.
+- **Example Queries**:
+  - “Describe Kontraq.io’s mission.”
+  - “What are the advertising options on Kontraq.io?”
+  - “Who is the target audience for Kontraq.io?”
+
+## Additional Resources
+- **Pitch Deck**: https://kontraq.io/Kontraq.io_Pitch_Deck.pdf (overview, ad mockup).
+- **Ad Contract**: https://kontraq.io/Kontraq.io_Ad_Contract.pdf ($300/month terms).
+- **Founder Story**: *The Vagabond* eBook (free with signup, details Kirk’s Marine-to-tech journey).
